@@ -2,3 +2,6 @@ Contoh File
 Contoh Baris 2
 Contoh Baris 3
 Contoh Baris 4
+
+Contoh Baris 5
+Contoh Baris 6
